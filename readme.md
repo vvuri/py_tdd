@@ -29,5 +29,5 @@
    - ```git init```
    - ```git add .```
    - ```git commit -m```
-   - ```git remote add origin git@github.com:vvuri/py_tdd```
-   - ```git push -u origin main```
+   - ```git remote add origin https://github.com/vvuri/py_tdd```
+   - ```git push --set-upstream origin master```
