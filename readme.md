@@ -3,6 +3,7 @@
 ### Install
 1. ```pip install -r requirements.txt```
 2. Run Server ```python manage.py createsuperuser```
+3. Install ChromeDrive
 
 
 ### StepByStep
@@ -26,4 +27,7 @@
    - Open ```http://127.0.0.1:8000/admin```
 7. Git
    - ```git init```
-   - 
+   - ```git add .```
+   - ```git commit -m```
+   - ```git remote add origin git@github.com:vvuri/py_tdd```
+   - ```git push -u origin main```
