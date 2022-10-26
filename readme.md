@@ -30,4 +30,9 @@
    - ```git add .```
    - ```git commit -m```
    - ```git remote add origin https://github.com/vvuri/py_tdd```
-   - ```git push --set-upstream origin master```
+   - ```git push --set-upstream origin +main```
+8. Add lists
+   - ``` cd .\superlists\```
+   - ```python manage.py startapp lists```
+9. Create functional test -> \lists\tests.py
+10. Run test: ```python manage.py test```
